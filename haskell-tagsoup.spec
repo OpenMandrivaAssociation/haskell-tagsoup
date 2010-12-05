@@ -2,7 +2,7 @@
 
 Name: haskell-%{module}
 Version: 0.6
-Release: %mkrel 2
+Release: %mkrel 3
 Summary: Parsing and extracting information from (possibly malformed) HTML documents
 Group: Development/Other
 License: BSD3
