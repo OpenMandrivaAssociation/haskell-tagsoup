@@ -6,7 +6,7 @@ Release: %mkrel 3
 Summary: Parsing and extracting information from (possibly malformed) HTML documents
 Group: Development/Other
 License: BSD3
-Url: http://hackage.haskell.org/package/tagsoup
+Url: https://hackage.haskell.org/package/tagsoup
 Source: http://hackage.haskell.org/packages/archive/%{module}/%{version}/%{module}-%{version}.tar.gz
 BuildRoot: %_tmppath/%name-%version-%release-root
 BuildRequires: ghc
